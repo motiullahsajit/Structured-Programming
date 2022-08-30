@@ -1,6 +1,6 @@
 /*
 Author: Motiullah Sajit
-Date : 27-08-22
+Date : 30-08-22
 A program to convert temperature Fahrenheit degrees to Centigrade degrees
 */
 
@@ -17,7 +17,7 @@ scanf("%f",&fahrenheitDegree);
 
 centigradeDegree = (fahrenheitDegree - 32) * 5 / 9;
 
-printf("The temperature in Centigrade degree is %.2f%c C", centigradeDegree, ch);
+printf("The temperature in Centigrade degree is %.2f%c C",centigradeDegree, ch);
 
 return 0;
 

@@ -1,6 +1,6 @@
 /*
 Author: Motiullah Sajit
-Date : 27-08-22
+Date : 30-08-22
 A program to  find the total number of currency notes of each denomination the cashier will have to give to the with-drawer
 */
 

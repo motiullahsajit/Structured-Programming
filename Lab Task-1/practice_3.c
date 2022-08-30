@@ -1,7 +1,7 @@
 /*
 Author: Motiullah Sajit
-Date : 27-08-22
-A program to calculate Gross Salary
+Date : 30-08-22
+A program to find out the aggregate marks and percentage marks obtained by the student
 */
 
 #include<stdio.h>

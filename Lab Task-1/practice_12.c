@@ -1,6 +1,6 @@
 /*
 Author: Motiullah Sajit
-Date : 27-08-22
+Date : 30-08-22
 A program to find the cost price of one item
 */
 
