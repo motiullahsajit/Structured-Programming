@@ -21,6 +21,11 @@ int main()
 
 	sum = dig1+dig2+dig3+dig4+dig5;
 
+	printf("\nThe sum of the digits of the dig1 is %d.",dig1);
+	printf("\nThe sum of the digits of the dig2 is %d.",dig2);
+	printf("\nThe sum of the digits of the dig3 is %d.",dig3);
+	printf("\nThe sum of the digits of the dig4 is %d.",dig4);
+
 	printf("The sum of the digits of the number is %d.",sum);
 
 	return 0;
