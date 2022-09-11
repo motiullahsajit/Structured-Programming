@@ -16,7 +16,7 @@ int main()
 
     costPrice = (sellingPrice - profit)/15;
 
-    printf("\nThe cost price of an item is %.2f.", costPrice);
+    printf("\nThe cost price of an item is %.2f", costPrice);
 
     return (0);
 }

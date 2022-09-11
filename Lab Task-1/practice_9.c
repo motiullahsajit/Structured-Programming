@@ -8,7 +8,7 @@ A program to obtain the sum of the first and last digit of a number
 
 int main()
 {
-int num, dig1, dig2, dig3, dig4, sum;
+    int num, dig1, dig2, dig3, dig4, sum;
 
 	printf("Enter a four digit number : ");
 	scanf("%d", &num);

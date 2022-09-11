@@ -26,7 +26,7 @@ int main()
 	printf("\nThe sum of the digits of the dig3 is %d.",dig3);
 	printf("\nThe sum of the digits of the dig4 is %d.",dig4);
 
-	printf("The sum of the digits of the number is %d.",sum);
+	printf("\nThe sum of the digits of the number is %d.",sum);
 
 	return 0;
 }
