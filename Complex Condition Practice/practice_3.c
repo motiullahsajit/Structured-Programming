@@ -7,17 +7,20 @@ Author: Motiullah Sajit
 
 int main(){
 
-    int number; //variable declaration
+    int number,n; //variable declaration
 
     printf("Please enter the value of m: ");
     scanf("%d",&number);
 
     if(number > 0){
-        printf("The value of n is 1");
+        n = 1;
+        printf("The value of n is %d",n);
     }else if (number < 0){
-        printf("The value of n is -1");
+        n = -1;
+        printf("The value of n is %d",n);
     }else if(number == 0){
-       printf("The value of n is 0");
+        n = 0;
+        printf("The value of n is %d",n);
     }else{
     printf("Your input is invalid");
     }
