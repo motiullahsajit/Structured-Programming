@@ -8,11 +8,7 @@ A program to convert and print distance in meter, feet, inches and centimeters
 
 int main(){
 
-float givenDistance;
-float distanceInMeter;
-float distanceInFeet;
-float distanceInInches;
-float distanceInCentimeter;
+float givenDistance, distanceInMeter, distanceInFeet, distanceInInches, distanceInCentimeter;
 
 printf("Please enter distance between Mirpur and Ashulia : ");
 scanf("%f",&givenDistance);

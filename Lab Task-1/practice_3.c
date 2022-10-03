@@ -8,13 +8,7 @@ A program to find out the aggregate marks and percentage marks obtained by the s
 
 int main(){
 
-float subject1;
-float subject2;
-float subject3;
-float subject4;
-float subject5;
-float aggregateMark;
-float percentageMark;
+float subject1, subject2, subject3, subject4, subject5, aggregateMark, percentageMark;
 
 printf("Please enter the number of subject 1 : ");
 scanf("%f",&subject1);

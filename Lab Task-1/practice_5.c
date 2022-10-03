@@ -8,13 +8,7 @@ A program to calculate area and perimeter of a rectangle and area and circumfere
 
 int main(){
 
-float length;
-float breadth;
-float radius;
-float areaRectangle;
-float perimeterRectangle;
-float areaCircle;
-float circumferenceCircle;
+float length, breadth, radius, areaRectangle, perimeterRectangle, areaCircle, circumferenceCircle;
 #define PI 3.142857
 
 
@@ -33,7 +27,7 @@ circumferenceCircle = 2 * PI * radius;
 printf("The area of the rectangle is is %.2f\n",areaRectangle);
 printf("The perimeter of the rectangle is %.2f\n",perimeterRectangle);
 printf("The area of the circle is %.2f\n",areaCircle);
-printf("The the circumference of the circle is %.2f\n",circumferenceCircle);
+printf("The circumference of the circle is %.2f\n",circumferenceCircle);
 
 return 0;
 

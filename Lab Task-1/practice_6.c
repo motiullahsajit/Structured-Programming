@@ -8,8 +8,7 @@ A program to interchange the contents of C and D
 
 int main(){
 
-    int C;
-    int D;
+    int C, D;
 
     printf("Enter the value of C : ");
     scanf("%d", &C);

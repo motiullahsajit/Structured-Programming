@@ -8,8 +8,7 @@ A program to convert temperature Fahrenheit degrees to Centigrade degrees
 
 int main(){
 
-float fahrenheitDegree;
-float centigradeDegree;
+float fahrenheitDegree, centigradeDegree;
 char ch=248;
 
 printf("Please the temperature in Fahrenheit degree : ");

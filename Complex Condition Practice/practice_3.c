@@ -22,7 +22,7 @@ int main(){
         n = 0;
         printf("The value of n is %d",n);
     }else{
-    printf("Your input is invalid");
+        printf("Your input is invalid");
     }
 
     return 0;

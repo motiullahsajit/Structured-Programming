@@ -22,9 +22,9 @@ printf("Please enter the value of the triangle's height: ");
 scanf("%f",&height);
 
 if((side1 + side2 + base)>(0.5 * base * height)){
-    printf("The perimeter of the triangle is greater then the area of the traingle");
+    printf("The perimeter of the triangle is greater than the area of the traingle");
 }else{
-    printf("The area of the triangle is greater then the perimeter of the triangle");
+    printf("The area of the triangle is greater than the perimeter of the triangle");
 };
 
 

@@ -8,10 +8,7 @@ A program to calculate Gross Salary
 
 int main(){
 
-float basicSalary;
-float dearnessAllowance;
-float houseRent;
-float grossSalary;
+float basicSalary, dearnessAllowance, houseRent, grossSalary;
 
 printf("Please enter your basic salary : ");
 scanf("%f",&basicSalary);
