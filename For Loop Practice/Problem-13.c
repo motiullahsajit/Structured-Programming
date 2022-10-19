@@ -1,5 +1,5 @@
 /*
-A program
+A C program to display following output
 Author: Motiullah Sajit
 */
 
